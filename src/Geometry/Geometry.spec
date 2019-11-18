@@ -1,0 +1,61 @@
+Avisogenies
+{
+  +AVI.spec
+}
+Crv
+{
+  +Crv.spec
+}
+CrvCon
+{
+  +CrvCon.spec
+}
+CrvEll
+{
+  +CrvEll.spec
+}
+CrvGrp
+{
+  +CrvGrp.spec
+}
+CrvG2
+{
+  +CrvG2.spec
+}
+SrfRM
+{
+  +SrfRM.spec
+}
+CrvG3
+{
+  +CrvG3.spec
+}
+CrvPln
+{
+  +CrvPln.spec
+}
+InvThry
+{
+  +InvThry.spec
+}
+JacG2
+{
+  +JacG2.spec
+  +GrpFrml2.spec
+}
+JacHyp
+{
+  +JacHyp.spec
+}
+JacHypSng
+{
+  +JacHypSng.spec
+}
+PicCrv
+{
+  +PicCrv.spec
+}
+Sch
+{
+  +Sch.spec
+}

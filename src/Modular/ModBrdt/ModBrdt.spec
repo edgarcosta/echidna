@@ -1,0 +1,18 @@
+{
+   brandt_modules.m
+   access.m
+   arithmetic.m
+   attributes.m
+   brandt_ideals.m
+   decomposition.m
+   recomposition.m
+   dimensions.m
+   dirichlet.m
+   hecke_operators.m
+   monodromy.m
+   qexpansion.m
+   modular_symbols.m
+   submodules.m
+   degeneracy.m
+   ternary_brandt.m
+}

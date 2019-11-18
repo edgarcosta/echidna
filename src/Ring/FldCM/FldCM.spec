@@ -1,0 +1,14 @@
+{
+  generic.m
+  quadratic.m
+  quartic.m
+  sextic.m
+  octic.m
+  period_matrix.m
+  gorenstein.m
+  zeta_function.m
+}
+DB
+{
+  +DBCM.spec
+}

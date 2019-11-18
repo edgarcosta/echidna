@@ -1,0 +1,10 @@
+{
+  MonAb
+  {
+    +MonAb.spec
+  }
+  MonStgGen
+  {
+    +MonStgGen.spec
+  }
+}

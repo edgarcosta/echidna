@@ -1,0 +1,32 @@
+{
+  2-adic_theta_null.m
+  3-adic_theta_null.m
+  p-adic_richelot.m
+  canonical_lift.m
+  artin_schreier.m
+  igusa_invariants.m
+  analytic_igusa.m
+  igusa_lix_verify.m
+  igusa_lix_analytic.m
+  igusa_lix_lift.m
+  igusa_lix_transformations.m
+  igusa_cmh_transformations.m
+  igusa_transformations.m
+  igusa_to_curve.m
+  geometric_moduli.m
+  # g2twists.m # Lercier and Ritzenthaler's code for twists
+  level2_theta_null_cm.m
+  modular_transformations.m
+  modular_richelot.m
+  modular_enumerations.m
+  modular_isogeny.m
+  random_curve.m
+  random_moduli.m
+  real_multiplication.m
+  quintic.m
+}
+DB
+{
+  +DBCrvG2.spec
+  +DBIgusa.spec
+}

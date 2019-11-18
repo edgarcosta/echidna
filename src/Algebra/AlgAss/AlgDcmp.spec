@@ -1,0 +1,4 @@
+{
+  algebras.m
+  decomposition.m
+}

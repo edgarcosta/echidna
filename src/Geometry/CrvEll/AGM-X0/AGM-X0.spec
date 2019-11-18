@@ -1,0 +1,10 @@
+{
+  agm_heegner.m
+  agm_lift.m
+  agm_frobenius_trace.m
+  modular_correspondences.m
+  frobenius_representation.m  
+  analytic_frobenius_lift.m
+  analytic_decomposition.m
+  class_polynomial.m
+}

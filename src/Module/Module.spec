@@ -1,0 +1,16 @@
+product_vector_space.m
+ModHrm
+{
+  +ModHrm.spec
+}
+ModQuad
+{
+  +LatTer.spec
+  +ModFldRat.spec
+  +ModRngInt.spec
+}
+QuadBin
+{
+  +QuadBinCalc.spec
+  +QuadBin.spec
+}

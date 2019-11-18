@@ -1,0 +1,13 @@
+{
+  attributes.m
+  booleans.m
+  maximal_orders.m
+  ramification.m
+  trace_and_norm.m
+  wedderburn.m
+  structure_constants.m
+  invariants.m
+  cyclic_algebras.m
+  splitting_field.m
+  tensor_product.m
+}

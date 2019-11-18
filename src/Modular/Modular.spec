@@ -1,0 +1,29 @@
+{
+  ModBrdt
+  {
+    +ModBrdt.spec
+    +ModBrdtWght.spec
+    DB
+    {
+      +DBModBrdt.spec
+    }
+  }
+  ModFrm
+  {
+    +ModFrm.spec
+    DB
+    {
+       +DBFncMod.spec
+       +DBModFrm.spec
+       +DBPolCM.spec
+    }
+  }
+  ModSS
+  {
+    +ModSS.spec
+    DB
+    {
+      +DBModSS.spec
+    }
+  }
+}
