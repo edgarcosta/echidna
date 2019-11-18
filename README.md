@@ -3,66 +3,59 @@
 
 This is just a mirror of http://iml.univ-mrs.fr/~kohel/alg/index.html
 
-{::nomarkdown}
-
-<center>
-  <h1>Echidna Algorithms<br>Algorithms for Elliptic Curves and Higher Dimensional Analogues</h1>
-</center>
-
-<hr noshade size=2>
-
 <table>
   <tr>
     <td width="30%" align="left"><font size=4><b>Echidna Algorithms</b></font></td>
-    <td width="30%" align="left"><b>Latest version:</b> <a href="echidna-5.0.spkg">echidna-5.0.spkg</a></td>
-    <td width="40%" align="left"><b>Previous versions:</b> <a href="echidna-4.0.spkg">echidna-4.0.spkg</a></td>
+    <td width="30%" align="left"><b>Latest version:</b> <a href="http://iml.univ-mrs.fr/~kohel/alg/echidna-5.0.spkg">echidna-5.0.spkg</a></td>
+    <td width="40%" align="left"><b>Previous versions:</b> <a href="http://iml.univ-mrs.fr/~kohel/alg/echidna-4.0.spkg">echidna-4.0.spkg</a></td>
   </tr>
   <tr>
     <td colspan=3><hr noshade size=2></td>
   </tr>
   <tr>
-    <td colspan=3>This is the complete Sage package for Echidna Algorithms, version 5.0 (for Magma V2.19 or higher).
-    This code is designed for computational and algorithmic research in the arithmetic
-    of curves, Jacobian, number fields (particularly CM fields), lattices, and algebras,
-    over a period of many years, including code contributions by and/or the output of
-    collaborations
-    with Robert Carls, Pierrick Gaudry, Martine Girard, David Gruenewald, Thomas Houtmann,
-    Hamish Ivey-Law, J&uuml;rgen Kl&uuml;ners, David Lubicz, Christophe Ritzenthaler,
-    Benjamin Smith, William Stein, Helena Verrill, Annegret Weng, Geordie Williamson,
-    and others.
-    Description of individual packages and some documentation can be found below.<p>
+    <td colspan=3>
+This is the complete Sage package for Echidna Algorithms, version 5.0 (for Magma V2.19 or higher).
+This code is designed for computational and algorithmic research in the arithmetic
+of curves, Jacobian, number fields (particularly CM fields), lattices, and algebras,
+over a period of many years, including code contributions by and/or the output of
+collaborations
+with Robert Carls, Pierrick Gaudry, Martine Girard, David Gruenewald, Thomas Houtmann,
+Hamish Ivey-Law, J&uuml;rgen Kl&uuml;ners, David Lubicz, Christophe Ritzenthaler,
+Benjamin Smith, William Stein, Helena Verrill, Annegret Weng, Geordie Williamson,
+and others.
+Description of individual packages and some documentation can be found below.<p>
 
-    This package is a bzip2'ed tar file of open source
-    <a href="http://magma.maths.usyd.edu.au">Magma</a> code.
+This package is a bzip2'ed tar file of open source
+<a href="http://magma.maths.usyd.edu.au">Magma</a> code.
 
-    For databases of modular polynomials, defining modular curves and their correspondences,
-    class polynomials for genus 1 and 2, quaternion algebras, and of Brandt modules and their
-    decompositions and Hecke algebra structures, consult the page
-    <a href="http://iml.univ-mrs.fr/~kohel/alg/../dbs/index.html">Echidna Databases</a>
-    for associated data.<p>
+For databases of modular polynomials, defining modular curves and their correspondences,
+class polynomials for genus 1 and 2, quaternion algebras, and of Brandt modules and their
+decompositions and Hecke algebra structures, consult the page
+<a href="http://iml.univ-mrs.fr/~kohel/alg/../dbs/index.html">Echidna Databases</a>
+for associated data.<p>
 
-    For Magma code development, emacs users may find this customizable
-    <a href="http://iml.univ-mrs.fr/~kohel/alg/emacs/index.html">magma mode</a> may be of use (version is adapted from an initial
-    version of William Stein, which was in turn derived from the GNU elisp shell.el).<p>
+For Magma code development, emacs users may find this customizable
+<a href="http://iml.univ-mrs.fr/~kohel/alg/emacs/index.html">magma mode</a> may be of use (version is adapted from an initial
+version of William Stein, which was in turn derived from the GNU elisp shell.el).<p>
 
-    <b>INSTALLATION:</b>
-    The tar file expands (tar -xvjf echidna-5.0.spkg) into a directory structure echidna-5.0/[src,dbs].
-    To avoid the need to modify the path in echidna-5.0/src/System/directory.m,
-    you should define an ECHIDNA_ROOT environment variable.  For instance in bash,
-    place:
-    <p>
-    export ECHIDNA_ROOT=$HOME/echidna-5.0
-    <p>
-    in your .bash_profile.  Now, to automatically load Echidna on startup,
-    place the following line in your .magmarc file:
-    <p>
-    AttachSpec(GetEnv("ECHIDNA_ROOT")*"/src/echidna.spec");
-    <p>
-    or call this from Magma.
-    <p>
-    <b>BUG REPORTS:</b> Please report any bugs to David Kohel
-    <a href="mailto:David.Kohel@univ-amu.fr">David.Kohel@univ-amu.fr</a>.
-    </td>
+<b>INSTALLATION:</b>
+The tar file expands (tar -xvjf echidna-5.0.spkg) into a directory structure echidna-5.0/[src,dbs].
+To avoid the need to modify the path in echidna-5.0/src/System/directory.m,
+you should define an ECHIDNA_ROOT environment variable.  For instance in bash,
+place:
+<p>
+export ECHIDNA_ROOT=$HOME/echidna-5.0
+<p>
+in your .bash_profile.  Now, to automatically load Echidna on startup,
+place the following line in your .magmarc file:
+<p>
+AttachSpec(GetEnv("ECHIDNA_ROOT")*"/src/echidna.spec");
+<p>
+or call this from Magma.
+<p>
+<b>BUG REPORTS:</b> Please report any bugs to David Kohel
+<a href="mailto:David.Kohel@univ-amu.fr">David.Kohel@univ-amu.fr</a>.
+</td>
   </tr>
   <tr>
     <td colspan=3><hr noshade size=2></td>
