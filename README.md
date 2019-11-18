@@ -1,8 +1,7 @@
-# echidna
-Echidna Algorithms: Algorithms for Elliptic Curves and Higher Dimensional Analogues
+# Echidna Algorithms: Algorithms for Elliptic Curves and Higher Dimensional Analogues
 
 
-Just a mirror of http://iml.univ-mrs.fr/~kohel/alg/index.html
+This is just a mirror of http://iml.univ-mrs.fr/~kohel/alg/index.html
 
 {::nomarkdown}
 
@@ -39,11 +38,11 @@ Just a mirror of http://iml.univ-mrs.fr/~kohel/alg/index.html
     For databases of modular polynomials, defining modular curves and their correspondences,
     class polynomials for genus 1 and 2, quaternion algebras, and of Brandt modules and their
     decompositions and Hecke algebra structures, consult the page
-    <a href="../dbs/index.html">Echidna Databases</a>
+    <a href="http://iml.univ-mrs.fr/~kohel/alg/../dbs/index.html">Echidna Databases</a>
     for associated data.<p>
 
     For Magma code development, emacs users may find this customizable
-    <a href="emacs/index.html">magma mode</a> may be of use (version is adapted from an initial
+    <a href="http://iml.univ-mrs.fr/~kohel/alg/emacs/index.html">magma mode</a> may be of use (version is adapted from an initial
     version of William Stein, which was in turn derived from the GNU elisp shell.el).<p>
 
     <b>INSTALLATION:</b>
@@ -77,7 +76,7 @@ Just a mirror of http://iml.univ-mrs.fr/~kohel/alg/index.html
   </tr>
   <tr>
     <td><b>Quaternion Algebras</b></td>
-    <td align="left"><a href="doc/AlgQuat.pdf">AlgQuat.pdf</a></td>
+    <td align="left"><a href="http://iml.univ-mrs.fr/~kohel/alg/doc/AlgQuat.pdf">AlgQuat.pdf</a></td>
   </tr>
   <tr>
     <td colspan=3>This is a package for quaternion algebras and their
@@ -86,7 +85,7 @@ Just a mirror of http://iml.univ-mrs.fr/~kohel/alg/index.html
   </tr>
   <tr>
     <td><b>Brandt Modules</b></td>
-    <td align="left"><a href="doc/ModBrdt.pdf">ModBrdt.pdf</a></td>
+    <td align="left"><a href="http://iml.univ-mrs.fr/~kohel/alg/doc/ModBrdt.pdf">ModBrdt.pdf</a></td>
   </tr>
   <tr>
     <td colspan=3>This is a package for working in the free module generated
@@ -95,7 +94,7 @@ Just a mirror of http://iml.univ-mrs.fr/~kohel/alg/index.html
   </tr>
   <tr>
     <td><b>AGM-X<sub>0</sub>(N)</b></td>
-    <td align="left"><a href="doc/AGM-X0.pdf">AGM-X0.pdf</a></td>
+    <td align="left"><a href="http://iml.univ-mrs.fr/~kohel/alg/doc/AGM-X0.pdf">AGM-X0.pdf</a></td>
   </tr>
   <tr>
     <td colspan=3>This is a package for point counting in elliptic curves
@@ -111,7 +110,7 @@ Just a mirror of http://iml.univ-mrs.fr/~kohel/alg/index.html
   </tr>
   <tr>
     <td><b>Picard Groups</b></td>
-    <td align="left"><a href="doc/PicCrv.pdf">PicCrv.pdf</a></td>
+    <td align="left"><a href="http://iml.univ-mrs.fr/~kohel/alg/doc/PicCrv.pdf">PicCrv.pdf</a></td>
   </tr>
   <tr>
     <td colspan=3>This is a package for working in the Picard group of
@@ -120,7 +119,7 @@ Just a mirror of http://iml.univ-mrs.fr/~kohel/alg/index.html
   </tr>
   <tr>
     <td><b>Singular Cubic Curves</b></td>
-    <!--<td align="left"><a href="doc/CrvGrp.pdf">CrvGrp.pdf</a></td>-->
+    <!--<td align="left"><a href="http://iml.univ-mrs.fr/~kohel/alg/doc/CrvGrp.pdf">CrvGrp.pdf</a></td>-->
     <td align="left"></td>
   </tr>
   <tr>
@@ -131,7 +130,7 @@ Just a mirror of http://iml.univ-mrs.fr/~kohel/alg/index.html
   <tr>
     <td><b>Singular Hyperelliptics</b></td>
     <td align="left">
-    <!--<td align="left"><a href="doc/JacHypSng.pdf">JacHypSng.pdf</a></td>-->
+    <!--<td align="left"><a href="http://iml.univ-mrs.fr/~kohel/alg/doc/JacHypSng.pdf">JacHypSng.pdf</a></td>-->
     <td align="left"></td>
   </tr>
   <tr>
@@ -170,7 +169,7 @@ Just a mirror of http://iml.univ-mrs.fr/~kohel/alg/index.html
   </tr>
   <tr>
     <td><b>Hyperelliptic Jacobians</b></td>
-    <!--<td align="left"><a href="doc/JacHyp.pdf">JacHyp.pdf</a></td>-->
+    <!--<td align="left"><a href="http://iml.univ-mrs.fr/~kohel/alg/doc/JacHyp.pdf">JacHyp.pdf</a></td>-->
     <td align="left"></td>
   </tr>
   <tr>
@@ -182,7 +181,7 @@ Just a mirror of http://iml.univ-mrs.fr/~kohel/alg/index.html
   <tr>
     <td><b>Quartic CM Fields</b></td>
     <td align="left">
-    <!--<td align="left"><a href="doc/FldCM.pdf">FldCM.pdf</a></td>-->
+    <!--<td align="left"><a href="http://iml.univ-mrs.fr/~kohel/alg/doc/FldCM.pdf">FldCM.pdf</a></td>-->
     <td align="left"></td>
   </tr>
   <tr>
@@ -211,20 +210,20 @@ Just a mirror of http://iml.univ-mrs.fr/~kohel/alg/index.html
     This is a teaching package for use in a course in classical cryptography,
     covering substitution and transposition ciphers, linear feedback shift
     registers, RSA, and ElGamal.
-    See my former <a href="../tch/USyd/MATH3024/index.html">MATH3024</a>, which
+    See my former <a href="http://iml.univ-mrs.fr/~kohel/alg/../tch/USyd/MATH3024/index.html">MATH3024</a>, which
     contains information on its use (particularly the tutorials), but see
     the course page for my ICE-EM/AMSI Summer School course in
-    <a href="../tch/Crypto/index.html">Cryptography</a> for my book and an
+    <a href="http://iml.univ-mrs.fr/~kohel/alg/../tch/Crypto/index.html">Cryptography</a> for my book and an
     expanded cryptography package in <a href="http://www.sagemath.org/">Sage</a>.
     </td>
   </tr>
   <tr>
     <td><b>User Databases</b></td>
-    <td align="left"><a href="doc/DBUser.txt">DBUser.txt</a></td>
+    <td align="left"><a href="http://iml.univ-mrs.fr/~kohel/alg/doc/DBUser.txt">DBUser.txt</a></td>
   </tr>
   <tr>
     <td colspan=3>This package provides an interface to the various databases on the
-    <a href="../dbs/index.html">Echidna Databases</a> page.
+    <a href="http://iml.univ-mrs.fr/~kohel/alg/../dbs/index.html">Echidna Databases</a> page.
   </tr>
 </table>
 
@@ -262,4 +261,3 @@ with contributions and inspiration from many collaborators (see above).
 </tr>
 </table>
 
-{:/}
